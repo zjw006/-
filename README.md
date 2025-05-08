@@ -1,4 +1,4 @@
-# 项目名称
+# 前端设计
 这是一个基础的Web项目，包含HTML、CSS和JavaScript文件。
 ## 项目结构
 - index.html
